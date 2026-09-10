@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Databases & Storage
+*.db
+*.sqlite
+*.sqlite3
+complaints.db
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+logs/
+.pytest_cache/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+.next/

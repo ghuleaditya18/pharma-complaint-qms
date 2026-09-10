@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+groq
+langchain-core
+langchain-groq
+langgraph
+pymysql>=1.1.0
+cryptography>=42.0.0
+pypdf
